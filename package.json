@@ -1,0 +1,15 @@
+{
+  "name": "entrega1",
+  "version": "1.0.1",
+  "description": "Entrega 1",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Katherine Posada kathepoar@gmail.com",
+  "license": "ISC"
+}
