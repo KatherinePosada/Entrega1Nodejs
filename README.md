@@ -8,4 +8,4 @@ node index
 Para inscribir:
 ==================
 
-node index Inscribir -i=<id curso> -n=<nombre> -c=<cedula>
+node index Inscribir -i=idCurso -n=nombre -c=cedula
